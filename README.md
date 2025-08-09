@@ -1,7 +1,7 @@
 # drewpy-code-agent
 
 <div align="center">
-  <img src="img/drewpy-code-agent.png" alt="drewpy-code-agent" width="200" height="200" style="border-radius: 50%;" />
+  <img src="img/drewpy-code-agent.png" alt="drewpy-code-agent" width="150" style="border-radius: 50%; margin: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 </div>
 
 ## 👋 About Me
